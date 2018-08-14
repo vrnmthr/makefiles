@@ -3,13 +3,13 @@
 
 [[projects]]
   branch = "master"
-  name = "github.com/vrnmthr/makefiles"
+  name = "github.com/vrnmthr/templates"
   packages = ["Go/pkg"]
-  revision = "e0a9c2ef43d3f0622da9566d5f0a156f26a5dfe8"
+  revision = "d2c7836447bdbda46b754d19b6ed6e9bd3e3d0c3"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "78ff0ede96a55b4833db7f0a0570d9abee7ff5a85b4c88ff6c8cf02e30e301ce"
+  inputs-digest = "87022e4eb4cf6969135724b65f43889f1006bafc9d7f85a5c36c32eecee27aed"
   solver-name = "gps-cdcl"
   solver-version = 1
