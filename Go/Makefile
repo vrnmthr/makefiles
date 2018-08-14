@@ -17,7 +17,7 @@ BINARIES := $(shell ls cmd)
 ######################################################
 
 .PHONY: all
-all: ensure build test bench
+all: vendor build test
 
 .PHONY: ensure
 ensure:
